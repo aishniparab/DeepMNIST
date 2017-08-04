@@ -5,7 +5,8 @@ recognise handwritten digits.
 
 ### Usage
 
-1. `python cnn_mnist.py`: Trains a cnn on the MNIST database to recognise images. Will pring logs and accuracy results. 
+1. `python cnn_mnist.py`: Trains a cnn on the MNIST database to recognise images. Will print logs and accuracy results.
+2. `python mnist_onevsall`: Trains a cnn on MNIST database to recognise if an image is 7 or not. 
 
 
 ### Network
